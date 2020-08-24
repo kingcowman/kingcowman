@@ -1,4 +1,4 @@
-### Hi there 👋
+### Not an arctic code vault contributor 👋
 
 <!--
 **kingcowman/kingcowman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
